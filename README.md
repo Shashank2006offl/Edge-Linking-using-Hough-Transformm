@@ -33,7 +33,7 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.title('Input Image')
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/9dd91433-81db-4942-ab5d-91102c11d842)
+![image](https://github.com/user-attachments/assets/63908ad0-c747-46d6-bb48-9341105b5f9f)
 ```
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 plt.imshow(gray_image, cmap='gray')
@@ -49,7 +49,7 @@ plt.imshow(gray_image, cmap='gray')
 plt.title('Grayscale Image')
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/9a92ad15-274e-4a9a-9e92-31a67bc26202)
+![image](https://github.com/user-attachments/assets/fcf50a07-34ff-4713-bde0-7a53e24e7ab2)
 
 
 ### Display the result of Hough transform
